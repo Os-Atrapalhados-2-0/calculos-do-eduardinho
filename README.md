@@ -1,8 +1,10 @@
 # calculos-do-Alexandrinho-pegador
 # calculos-do-eduardinho-pegador
 #  
+#
 # ----------agradecimentos----------
-#  
+# 
+#
 # luis-pegador
 # luis-lindo
 # luis-bom-professor
