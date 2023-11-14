@@ -1,6 +1,14 @@
+# ----------------UX----------------
+#
+#
+# Eduardinho-dos-calculos
+#
+#
 # ---------------devs---------------
+#
+#
 # calculos-do-Alexandrinho-pegador
-# calculos-do-eduardinho-pegador
+# calculos-do-Eduardinho-pegador
 #  
 #
 # ----------agradecimentos----------
