@@ -34,4 +34,3 @@
 #
 # -----------------------------------
 # kkk o redme é so suera ñ leven a serio
-# olha
