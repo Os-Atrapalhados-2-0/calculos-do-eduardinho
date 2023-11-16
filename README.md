@@ -23,4 +23,11 @@
 # luis-não-é-calvo
 #
 #
-# ----------------------------------
+# ------------campanha--------------
+#
+#
+# juntos-contra-o-lula
+# juntos-contra-calculos-feitos-a-mão
+# fora-arlindo
+#
+#
